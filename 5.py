@@ -1,24 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 17 19:18:47 2017
-
-@author: Atrocity
-"""
 '''
-n=24
-i=1
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
-factor=n
-while i*i<=n:
-    if n%i==0:
-        factor=i
-    i+=1
-    if (factor+1)==i:
-        factor-=1
-        while factor-1%n!=0:
-            factor-=1
-            
-print(factor)'''
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+'''
 
 n=20
 i=1

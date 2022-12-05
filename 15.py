@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Jun  8 19:41:48 2017
+Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
 
-@author: Atrocity
+
+How many such routes are there through a 20×20 grid?
 """
 import time
 

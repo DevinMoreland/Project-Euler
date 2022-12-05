@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed May 17 19:18:47 2017
+The prime factors of 13195 are 5, 7, 13 and 29.
 
-@author: Atrocity
+What is the largest prime factor of the number 600851475143 ?
 """
 
 n=20

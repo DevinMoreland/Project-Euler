@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May 29 18:57:19 2017
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 
-@author: Atrocity
+Find the sum of all the primes below two million.
 """
 
 primeslist=[]
