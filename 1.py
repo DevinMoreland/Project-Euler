@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 13 21:11:43 2017
-
-@author: Atrocity
-"""
-
 listofnumbers=[]
 n=0
 while n<=999:
