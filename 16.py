@@ -8,7 +8,7 @@ import numpy as np
 def SumOfDigits(x):
     *x,=str(x)
     x=np.asarray(x)
-    print(np.sum(x.astype(int)))
+    return(np.sum(x.astype(int)))
 
 y=2**1000
 print(SumOfDigits(y))
