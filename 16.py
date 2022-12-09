@@ -3,3 +3,15 @@
 
 What is the sum of the digits of the number 2^1000?
 '''
+# %%
+import numpy as np
+def SumOfDigits(x):
+    *x,=str(x)
+    x=np.asarray(x)
+    print(np.sum(x.astype(int)))
+
+y=2**1000
+print(SumOfDigits(y))
+
+
+# %%
