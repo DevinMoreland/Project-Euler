@@ -14,3 +14,4 @@ where  is the modulus/absolute value of
 e.g.  and 
 Find the product of the coefficients,  and , for the quadratic expression that produces the maximum number of primes for consecutive values of , starting with .
 '''
+import sklearn
